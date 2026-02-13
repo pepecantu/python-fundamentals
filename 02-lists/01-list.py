@@ -35,7 +35,7 @@ numbers.append("Agregamos algo más") # Se agrega a la lista el string del mensa
 
 show(numbers)
 
-# Se agrega también una lista como parámetro dentro de la lista.
+# Se agrega también una lista como parámetro dentro de la lista para agregar múltiples elementos a la lista.
 numbers.extend([6,7,8])
 
 show(numbers)
